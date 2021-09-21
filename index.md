@@ -17,4 +17,4 @@ This is a link to a sample repository:
 
 In recognition of Hispanic Heritage Month, here is one of my favorite spanish romantic ballads "Solamente Una Vez" sung by Los Panchos.
 
-[![Sorting](https://img.youtube.com/vi/WD-Nre__RzY/0.jpg)](https://www.youtube.com/watch?v=WD-Nre__RzY)
+[![Sorting with lambda Functions](https://img.youtube.com/vi/WD-Nre__RzY/0.jpg)](https://www.youtube.com/watch?v=WD-Nre__RzY)
