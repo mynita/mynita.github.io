@@ -1,8 +1,8 @@
 ---
-Title: Normdata Decomposition
+Title: Normdata
 Description: Altered content from previous coursework
 ---
 
-Here is a Normdata Decomposition I altered (from OMSBA prereq course) for my CTBA course. 
+Here is the Normdata I altered (from OMSBA prereq course) for my CTBA course. 
 - 
 - 
