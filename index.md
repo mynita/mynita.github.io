@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: The titles and desc can be changed here.
+title: My Github Firsts
+description: My first experimentation with GitHub!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
